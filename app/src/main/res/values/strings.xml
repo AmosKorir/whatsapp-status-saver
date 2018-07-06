@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="top">ca-app-pub-2839585061501474/4342287118</string>
+    <string name="inter">ca-app-pub-2839585061501474/4342287118</string>
+
+</resources>
